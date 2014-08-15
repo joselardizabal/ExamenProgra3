@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1408064178 source:/home/joselardi/Documents/Projects/PersonajeTablero/main.cpp
+	<iostream>
+
+1408065281 source:/home/joselardi/Documents/Projects/PersonajeTablero/src/listapersonajes.cpp
+	"listapersonajes.h"
+	"personajetablero.h"
+
+1408065248 /home/joselardi/Documents/Projects/PersonajeTablero/include/listapersonajes.h
+
+1408066000 /home/joselardi/Documents/Projects/PersonajeTablero/include/personajetablero.h
+	"personajetablero.h"
+	<iostream>
+
+1408065873 source:/home/joselardi/Documents/Projects/PersonajeTablero/src/personajetablero.cpp
+	"personajetablero.h"
+
